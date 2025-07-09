@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# Allow folders (so you can track notebooks in them)
+!*/
+
+# Allow Jupyter notebooks and requirements.txt
+!*.ipynb
+!requirements.txt
+
+# Allow .gitignore
+!.gitignore
